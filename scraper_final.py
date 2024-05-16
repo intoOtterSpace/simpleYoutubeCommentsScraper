@@ -1,3 +1,7 @@
+#In case not installed
+#pip install beautifulsoup4
+#pip install selenium
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
